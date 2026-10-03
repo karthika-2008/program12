@@ -11,7 +11,6 @@ INSERT INTO Department (DepartmentID, DepartmentName) VALUES
 (20, 'Mathematics'),
 (30, 'Physics');
 
-
 CREATE TABLE Student (
     StudentID INT,
     StudentName VARCHAR(50),
